@@ -6,4 +6,4 @@
 💀建议引入JWT做权限控制
 
 #### 登录页面
-![登录页](https://github.com/jidonghao/chat-room/blob/master/image/chat-login.png?raw=true)
+<img src="[图片链接](https://github.com/jidonghao/chat-room/blob/master/image/chat-login.png?raw=true)" alt="登录页" width="200">
