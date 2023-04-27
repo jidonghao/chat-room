@@ -5,4 +5,5 @@
 
 💀建议引入JWT做权限控制
 
-![登录页面](https://jdh-bucket.oss-cn-beijing.aliyuncs.com/chat-login.png)
+#### 登录页面
+![登录页](https://github.com/jidonghao/chat-room/blob/master/image/chat-login.png?raw=true)
