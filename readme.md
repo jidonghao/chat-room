@@ -1,4 +1,4 @@
-## 基于vue和express的简易聊天室
+## 基于MQTT的简易聊天室
 <p align="center">
  <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/node->14.16.0-yellowGreen" alt="nodejs">
